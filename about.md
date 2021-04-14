@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Development | Hacking | Tinkering
 
-Actually, it has the same layout of a post...
+A blog containing write-ups, walkthroughs, tech-notes, and others.
