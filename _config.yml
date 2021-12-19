@@ -2,7 +2,7 @@ title: Adventures in CyberSec
 author: Brogan Ehnis
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A blog for my creations and discoveries
+  A blog for my creations and discoveries.
 
 permalink: /:slug.html
 
